@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="P6Answers_APP_MiguelCastro.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:P6Answers_APP_MiguelCastro.WinUI">
+
+</maui:MauiWinUIApplication>
